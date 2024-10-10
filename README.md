@@ -25,7 +25,7 @@ This project is a basic Flutter application designed to replicate a user interfa
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/flutter-ui-copy.git
+   git clone https://github.com/maxx-2345/task_2_UI.git
    ```
 
 2. Navigate to the project directory:
